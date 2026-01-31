@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'features/main/main_screen.dart';
+import 'features/auth/view/pages/login_page.dart';
 
 void main() {
   runApp(const MyApp());
@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: const Color(0xFF4361EE)),
         useMaterial3: true,
       ),
-      home: const MainScreen(),
+      home: const LoginPage(),
     );
   }
 }

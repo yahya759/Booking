@@ -48,3 +48,18 @@
  - dont move to any page just this 
  -if you generate any image put in images file
  state : done 
+
+## task 5 login and regester page 
+ - create login page first 
+ - make it the first page open 
+ - make it responsple 
+ - make refacter to ui 
+ - able to use google 
+ - able to use email and passwrod 
+ - create regester page 
+ - make it responsple 
+ - make refacter to ui 
+ - able to use google 
+ - able to use email ,  passwrod , name 
+ state : done
+
